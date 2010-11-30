@@ -14,6 +14,7 @@ gem 'thin', '~> 1.2.7'
 gem 'uuid', '~> 2.3.1'
 gem 'ruby-debug19'
 gem 'jquery-rails'
+gem 'grape'
 
 group :development do
   gem 'awesome_print', :require => 'ap'
